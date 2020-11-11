@@ -1,7 +1,7 @@
 
 1# Databinding
 Default
-![Logo of the project](http://logo_link)
+![Logo of the project](https://freelogo-assets.s3.amazonaws.com/sites/all/themes/freelogoservices/images/logodesign/2019-Logo-design-Computer-ImageV2.jpg)
 
 ## Descrição
 
