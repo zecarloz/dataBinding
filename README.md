@@ -1,7 +1,7 @@
 
 # Databinding
 
-![Logo of the project](https://freelogo-assets.s3.amazonaws.com/sites/all/themes/freelogoservices/images/logodesign/2019-Logo-design-Computer-ImageV2.jpg)
+![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaoquUqPG9kILqR19fpt4yvHkiZjR1EvXrPA&usqp=CAU)
 
 ## Descrição
 
