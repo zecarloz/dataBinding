@@ -1,34 +1,111 @@
 # Databinding
+Default
+![Logo of the project](http://logo_link)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
-Para subir o projeto em um diretório local clone os arquivos e inicie com : npm i ; em seguida use ng s -o
-Para o projeto atual foi usado o nodejs na versão 14 e typescript 4.0.5
+## Descrição
 
-Nesta aplicação apresento uma breve introdução , Simples e resumida dreferente ao uso do Data binding em Angular-cli
-O que é e o que faz o Data Binding em Angular ?
-                                                    exemplos :
-A vinculação de dados é um conceito central no Angular e permite definir a comunicação entre um componente e o DOM, tornando muito fácil definir aplicativos interativos sem se preocupar em enviar e receber dados. Existem quatro formas de vinculação de dados e diferem na forma como os dados fluem.
-
-Do componente para o DOM
-Interpolação: {{value}}
-Isso adiciona o valor de uma propriedade do componente:
-
-<li>Name: {{ user.name }}</li>
-<li>Email: {{ user.email }}</li>
-Vinculação de propriedade: [propriedade] = “valor”
-Com a vinculação de propriedade, o valor é passado do componente para a propriedade especificada, que geralmente pode ser um atributo html simples:
-
-<input type="email" [value]="user.email">
-Aqui estão mais dois exemplos, um que aplica uma cor de fundo do valor de selectedColor no componente e aquele que aplica um nome de classe se é selecionado avalia como verdadeiro:
-
-<div [style.background-color]="selectedColor">
+Nesta aplicação apresento uma breve introdução ,
+Simples e resumida dreferente ao uso do Data binding em Angular-cli
 
 
-Do DOM para o componente
-Vinculação de evento: (evento) = “função”
-Quando um evento DOM específico acontece (por exemplo: clique, mudança, keyup), chame o método especificado especificado no componente. No exemplo abaixo, ocookPotato () método do componente é chamado quando o botão é clicado:
+## Technology 
 
-<button (click)="cookPotato()"></button>
-Mão dupla
-Ligação de dados bidirecional: [(ngModel)] = “valor”
-Usando o que é chamado de sintaxe banana em uma caixa, a vinculação de dados bidirecional permite que os dados fluam nos dois sentidos. Neste exemplo, a propriedade de dados user.email é usada como o valor para a entrada, mas se o usuário alterar o valor, a propriedade do componente será atualizada automaticamente para o novo valor:
+As tecnologias usadas no projeto foram : 
+* Angular/cli v10
+* nodejs v14
+* typescript 4.0.5
+
+## Como usar
+
+* Para instalar e rodar o projeto : 
+>    npm i
+* para instalar tods as dependencias
+>    ng s -o
+* Para subir o projeto em um diretório local
+>    $ rails s
+
+
+
+## Links
+
+  
+  - Repository: https://github.com/zecarloz/dataBinding.git
+    
+
+## Versioning
+
+1.0.0.0
+
+
+## Authors
+
+* **José Carlos**: @YOUR_GITHUB_NICKNAME (https://github.com/zecarloz/dataBinding.git)
+
+
+Please follow github and join us!
+Thanks to visiting me and good coding!
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
