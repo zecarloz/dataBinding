@@ -36,7 +36,7 @@ As tecnologias usadas no projeto foram :
 
 ## Authors
 
-* **José Carlos**: GITHUB (https://github.com/zecarloz/dataBinding.git)
+* **José Carlos**: GITHUB (https://github.com/zecarloz)
 
 
 Please follow github and join us!
