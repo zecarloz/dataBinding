@@ -18,7 +18,7 @@ As tecnologias usadas no projeto foram :
 
 ## Como usar
 
-* Para instalar e rodar o projeto : 
+* Para instalar e rodar o projeto rode os comandos: 
 >    npm i
 * para instalar tods as dependencias
 >    ng s -o
