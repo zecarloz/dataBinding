@@ -31,7 +31,7 @@ As tecnologias usadas no projeto foram :
 
 ## Versioning
 
-1.0.0.0
+1.0.0
 
 
 ## Authors
