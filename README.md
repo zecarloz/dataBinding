@@ -27,9 +27,9 @@ As tecnologias usadas no projeto foram :
 
 ## Links
   
-  - Repository: https://github.com/zecarloz/dataBinding.git
+   Repository: https://github.com/zecarloz/dataBinding.git
 
-## Versioning
+
 
 1.0.0
 
