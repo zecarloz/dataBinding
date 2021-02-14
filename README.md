@@ -14,7 +14,7 @@ Simples e resumida dreferente ao uso do Data binding em Angular-cli
 As tecnologias usadas no projeto foram : 
 * Angular/cli v10
 * nodejs v14
-* typescript 4.0.5
+* typescript 4.0.5 ou posterior
 
 ## Como usar
 
