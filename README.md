@@ -9,7 +9,7 @@ Nesta aplicação apresento uma breve introdução ,
 Simples e resumida dreferente ao uso do Data binding em Angular-cli
 
 
-## Tecnologias envolvidas
+## Tecnologias envolvidas:
 
 As tecnologias usadas no projeto foram : 
 * Angular/cli v10
@@ -34,8 +34,7 @@ As tecnologias usadas no projeto foram :
 1.0.0
 
 
-## Authors
-
+## Authors:
 * **José Carlos**: GITHUB (https://github.com/zecarloz)
 
 
